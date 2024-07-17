@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049623693440",
+    "project_id": "phone-number-verificatio-e2159",
+    "storage_bucket": "phone-number-verificatio-e2159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049623693440:android:2dd2bc36677d0250c33e65",
+        "android_client_info": {
+          "package_name": "com.numaan.phonenumberverification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvWq--DV9j8hZSrdPODyglIj5BlLfvPOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049623693440:android:95a1b2ab5f1ab6e9c33e65",
+        "android_client_info": {
+          "package_name": "com.numaan.phonenumberverification.phone_number_verification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvWq--DV9j8hZSrdPODyglIj5BlLfvPOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
