@@ -1,4 +1,4 @@
-#Phone Number Authentication with Firebase
+# Phone Number Authentication with Firebase
 
 This project implements phone number authentication using Firebase, providing a secure and reliable way to verify users. The authentication process works as follows:
 
@@ -22,4 +22,4 @@ Key Features:
 
   Customizable UX: Developers can design custom OTP input screens and messages while leveraging Firebase’s robust backend.
 
-  #TO GET OTP ENABLE BILLING
+  # TO GET OTP ENABLE BILLING
